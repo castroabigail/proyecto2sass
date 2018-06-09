@@ -1,0 +1,32 @@
+#persona, #cuadros, #precio, #correo{
+	margin-top: 2%;
+}
+.seccion-start{
+	background-image: url(../img/mac.jpg);
+	background-size: 100% 100%;
+	height: 500px;
+	color: white;
+
+}
+.txt-stop{
+	margin-left: 5%;
+	margin-top: 3%;
+	font-size: 125%;
+}
+
+.txt-start{
+	margin-left: 5%;
+	margin-top: 15%;
+	font-size: 355%;
+}
+.boton-learn{
+	margin-left: 5%;
+	margin-top: 2%;
+	padding: 1% 2%;
+	opacity: 0.5;
+}
+.i-redes{
+	opacity: 0.5;
+	margin-left: 5%;
+	margin-top: 7%;
+}
