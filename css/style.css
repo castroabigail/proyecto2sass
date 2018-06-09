@@ -30,3 +30,32 @@
 	margin-left: 5%;
 	margin-top: 7%;
 }
+.about{
+	text-align: center;
+	margin-top: 11%;
+	margin-bottom: 11%;
+}
+.i-h-p{
+	margin-top: 8%;
+}
+.txt-key{
+	text-align: center;
+	font-size: 135%;
+	margin-top: 2%;
+}
+.we-know{
+	background-color: #DCDCDC;
+	height: 450px;
+}
+.img-cel{
+	width: 75%;
+	border-radius: 5%;
+	display: block;
+	margin: auto;
+	margin-top: 20%;
+}
+.btn-view{
+	background-color: black;
+	color: white;
+	padding: 2% 2%;
+}
