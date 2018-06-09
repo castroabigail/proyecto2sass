@@ -57,5 +57,19 @@
 .btn-view{
 	background-color: black;
 	color: white;
-	padding: 2% 2%;
+	padding: 2% 4%;
+	margin-top: 5%;
+	margin-left: 5%;
+	border-radius: 5%;
+}
+#view{
+	color: white;
+}
+.txt-we{
+	margin-left: 5%;
+	margin-top: 20%;
+}
+.parrafo-we{
+	margin-left: 5%;
+	margin-top: 3%;
 }
