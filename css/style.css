@@ -28,7 +28,7 @@
 .i-redes{
 	opacity: 0.5;
 	margin-left: 5%;
-	margin-top: 7%;
+	margin-top: 5%;
 }
 .about{
 	text-align: center;
@@ -134,11 +134,72 @@
 	padding: 3%;
 }
 .img-ocho{
-	margin-bottom: 5%;
+	margin-bottom:10%;
 }
-.foto{
-		float: left;
-	}
+.our-skills{
+	background-color: #DCDCDC;
+	height: 450px;
+
+}
+.barras{
+	
+	padding: 1px;
+}
+.txt-barra{
+	margin-top: 10%;
+}
+.barras{
+	width: 70%;
+}
 .progress{
-	margin-top:5%;
+	width: 90%;
+}
+.txt-ourskills, .parrafo-our{
+	margin-top: 10%;
+	width: 90%;
+	margin-left: 8%;
+}
+.datos{
+	text-align: center;
+	margin-top: 5%;
+	width: 90%;
+
+}
+.uno{
+	background-color: black;
+	color: white;
+}
+.precio-box{
+	font-size: 170%;
+}
+.txt-per{
+	font-size: 50%;
+}
+.btn-sign{
+	background-color: black;
+	color: white;
+	padding: 3% 8%;
+}
+.dos{
+	background-color: #DCDCDC;
+}
+.pricing{
+	height: 900px;
+	background-color: gray;
+}
+.txt-pricing{
+	text-align: center;
+	color: white;
+	margin-top: 10%;
+}
+.linea-pricing{
+	background-color: white;
+}
+.unorojo{
+	background-color: red;
+	color: white;
+}
+.card{
+	display: block;
+	margin: auto;
 }
