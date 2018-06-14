@@ -203,3 +203,63 @@
 	display: block;
 	margin: auto;
 }
+.txt-contact{
+	text-align: center;
+	margin-top: 10%;
+	font-size: 150%;
+}
+.parrafo-contact{
+	text-align: center;
+	font-size: 125%;
+	margin-bottom: 7%;
+}
+.contact{
+	height: 860px;
+	background-color: #DCDCDC;
+	
+}
+.span-chicago{
+	margin-left: 3%;
+}
+.ubicacion,.tel, .email, .formulario{
+	margin-left: 6%;
+}
+
+/*
+.icono-img{
+
+	width: 50%;
+	margin-left: 2%;
+	}
+.mapa{
+
+	width: 50%;
+	margin right: 2%;
+}
+*/
+.btn-send{
+	background-color: black;
+	color: white;
+	margin-left: 6%;
+	margin-top: 3%;
+}
+.btn-to, .i-redesfinal{
+	display: block;
+	margin: auto;
+	margin-left: 50%;
+}
+.btn-to{
+	margin-top: 5%;
+}
+.i-redesfinal{
+	margin-top: 2%;
+	color: white;
+	margin-left: 49%;
+}
+.piedepagina{
+	background-color: black;
+	height: 200px;
+}
+.formulario{
+	margin-top: 2%;
+}
